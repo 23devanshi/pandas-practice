@@ -1,4 +1,4 @@
-# https://pynative.com/python-pandas-exercise/
+# Exercises taken from : https://pynative.com/python-pandas-exercise/
 import pandas as pd
 import numpy as np
 
